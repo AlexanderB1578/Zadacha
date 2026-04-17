@@ -1,4 +1,4 @@
 # Zadacha
 
-Ссылка на код:
+Ссылка на код:  
 https://github.com/AlexanderB1578/Zadacha/blob/main/Temperatura.cpp
